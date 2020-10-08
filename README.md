@@ -1,1 +1,1 @@
-# Blasebot is a webscraper build with the core of Python and Selenium/Geckodriver. 
+# Blasebot is a webscraper built with the core of Python and Selenium/Geckodriver. 
